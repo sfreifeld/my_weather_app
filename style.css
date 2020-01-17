@@ -1,14 +1,19 @@
 
 body {
+    font-family: "Montserrat";
+    color: #ffffff;
+    font-size: 56px;
+    position: relative;
+    height: 100vh;
+}
+
+#container {
     background-image: linear-gradient(
         to right,
         rgba(73, 222, 248, 0.7),
         rgba(0, 153, 255, 0.7)), 
     url(assets/skyBackground.jpg);
     background-size: 100%;
-    font-family: "Montserrat";
-    color: #ffffff;
-    font-size: 56px;
     position: relative;
     height: 100vh;
 }
