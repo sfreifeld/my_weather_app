@@ -2,8 +2,8 @@
 This app was made so that a user can input their location and then get the exact weather in fahrenheit for the current moment.
 
 ## Example Images 
-![prompt](prompt.png) 
-![app](app.png)
+![prompt](exampleimages/prompt.png) 
+![app](exampleimages/app.png)
 
 ## Prerequisites
  * Must have [CORS extension](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en)
